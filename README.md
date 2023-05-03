@@ -1,14 +1,16 @@
 # Message App
 
-<div align="center">
 
+<div align="center">
+  
 | Titulo | Message app |
 |:--     |:--:         |
-| Tecnologias | [Ruby on Rails](https://rubyonrails.org/), [Semantic UI](https://semantic-ui.com/) [PostgreSQL](https://www.postgresql.org/) | 
+| Tecnologias | [Ruby on Rails](https://rubyonrails.org/), [Semantic UI](https://semantic-ui.com/), [PostgreSQL](https://www.postgresql.org/) | 
 | Versões | Ruby(v2.6.2), rails(6.0), Semanti-UI(2.5.0) |
 |URL (Deploy) | Not deployed yet |
 
 </div>
+
 
 * Ruby version
 
