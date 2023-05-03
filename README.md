@@ -1,9 +1,14 @@
-# README
+# Message App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<div align="center">
 
-Things you may want to cover:
+| Titulo | Message app |
+|:--     |:--:         |
+| Tecnologias | [Ruby on Rails](https://rubyonrails.org/), [Semantic UI](https://semantic-ui.com/) [PostgreSQL](https://www.postgresql.org/) | 
+| Versões | Ruby(v2.6.2), rails(6.0), Semanti-UI(2.5.0) |
+|URL (Deploy) | Not deployed yet |
+
+</div>
 
 * Ruby version
 
